@@ -1,2 +1,5 @@
-# Site Anna Bella Modelo
-Projeto de um site fictício apenas para estudos (Divs e Spans, Classes e IDs, Estilos de textos, cor imagem de fundo, CSS Externo)
+# Anna Bella Model Website
+Design of a fictitious website for applying study material.
+
+
+Html 5 and Css 3
